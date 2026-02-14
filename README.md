@@ -154,7 +154,7 @@ GOOGLE_CLIENT_SECRET=your_google_client_secret
 GOOGLE_CALLBACK_URL=http://localhost:5000/api/auth/google/callback
 
 # Google Sheets (Optional)
-GOOGLE_SHEETS_ID=your_google_sheet_id
+GOOGLE_SHEETS_ID=your_google_sheet_id(currently not working)
 ```
 
 For Google Sheets integration, create `config/google-service-account.json`:
